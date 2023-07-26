@@ -1,3 +1,25 @@
+This "Golden Project" is a YouTube clone with essential features that allow users to have a familiar video-sharing experience. It includes a login feature, enabling users to access personalized content. You can watch videos on the platform and have the flexibility to adjust the video quality and playback speed based on your preferences. Additionally, users can engage with the content by leaving comments on any video they watch. The project also incorporates a "Show More" and "Show Less" option for video descriptions, providing a seamless user experience. Overall, this Golden Project aims to replicate the key functionalities of YouTube while offering a user-friendly interface for a smooth video-watching and commenting experience.
+
+It is made with React JS,Tailwind CSS, Firebase, Redux, React icons, React router DOM, etc.
+
+You can check this youtube clone react app by visiting this link (it is already hosted): https://nil-yt.netlify.app/
+OR,
+If you want to run this files in your device, you have to add or install all npm node packages I have used to make this yt clone, all packages mentioned bellow:
+1. npm install -D tailwindcss
+2. npm i react-router-dom
+3. npm i react-icons
+4. npm i tailwind-scrollbar-hide
+5. npm install firebase
+6. npm install @reduxjs/toolkit
+7. npm i react-show-more-text
+
+
+
+⭕Show more and show less:
+=> To use show more and show less option in description you can make your own logic or you can use a react package called "react-show-more-text"  to install this package go to terminal and paste it "npm i react-show-more-text" and late it download and then use it.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
